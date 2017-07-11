@@ -11,25 +11,7 @@ The following simplified model of a single robot moving in a square 5x5 room sho
 The robot starts out at some random position in the room, and with a random direction of motion. The illustrations below show the robot's position (indicated by a black dot) as well as its direction (indicated by the direction of the red arrowhead).
 
   
-Time t = 0
-The robot starts at the position (2.1, 2.2) with an angle of 205 degrees (measured clockwise from "north"). The tile that it is on is now clean.
-
-  
-t = 1
-The robot has moved 1 unit in the direction it was facing, to the position (1.7, 1.3), cleaning another tile.
-
-  
-t = 2
-The robot has moved 1 unit in the same direction (205 degrees from north), to the position (1.2, 0.4), cleaning another tile.
-
-  
-t = 3
-The robot could not have moved another unit in the same direction without hitting the wall, so instead it turns to face in a new, random direction, 287 degrees.
-
-  
-t = 4
-The robot moves along its new direction to the position (0.3, 0.7), cleaning another tile.
-
+![simulation](https://image.ibb.co/dzfAZa/edx.png)
 Simulation Details
 
 Here are additional details about the simulation model. Read these carefully.
