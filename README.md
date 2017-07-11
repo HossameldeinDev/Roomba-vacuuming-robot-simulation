@@ -1,5 +1,5 @@
 # Roomba-vacuuming-robot-simulation
-Algorithm designed in OOP python for simulation to compare how much time a group of Roomba-like robots will take to clean the floor of a room using two different strategies.
+Algorithm designed in OOP python for simulation to compare how much time a group of [Roomba-like robots](http://store.irobot.com/) will take to clean the floor of a room using two different strategies.
 This is the solution for Problem set 2 in introduction to computational thinking course from MIT on edx
 and here's an overview for the problem.
 iRobot is a company (started by MIT alumni and faculty) that sells the Roomba vacuuming robot (watch one of the product videos to see these robots in action). Roomba robots move around the floor, cleaning the area they pass over.
