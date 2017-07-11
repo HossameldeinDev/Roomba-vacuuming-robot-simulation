@@ -12,11 +12,12 @@ The robot starts out at some random position in the room, and with a random dire
 
   
 ![simulation](https://image.ibb.co/dzfAZa/edx.png)
-Simulation Details
+
+##Simulation Details
 
 Here are additional details about the simulation model. Read these carefully.
 
-Multiple robots
+### *Multiple robots
 In general, there are N > 0 robots in the room, where N is given. For simplicity, assume that robots are points and can pass through each other or occupy the same point without interfering.
 
 The room
